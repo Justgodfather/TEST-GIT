@@ -1,0 +1,10 @@
+@media all and (max-width: 1300px) {
+  .work__btn {
+    width: 60%;
+  }
+}
+@media all and (max-width: 1100px) {
+  .work__btn {
+    width: 90%;
+  }
+}
